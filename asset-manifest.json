@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monsterkidz/static/css/main.7dbde842.chunk.css",
-    "main.js": "/monsterkidz/static/js/main.6ebf5e72.chunk.js",
-    "main.js.map": "/monsterkidz/static/js/main.6ebf5e72.chunk.js.map",
+    "main.js": "/monsterkidz/static/js/main.feb12000.chunk.js",
+    "main.js.map": "/monsterkidz/static/js/main.feb12000.chunk.js.map",
     "runtime-main.js": "/monsterkidz/static/js/runtime-main.0f1257f0.js",
     "runtime-main.js.map": "/monsterkidz/static/js/runtime-main.0f1257f0.js.map",
     "static/js/2.b6f2604e.chunk.js": "/monsterkidz/static/js/2.b6f2604e.chunk.js",
     "static/js/2.b6f2604e.chunk.js.map": "/monsterkidz/static/js/2.b6f2604e.chunk.js.map",
     "index.html": "/monsterkidz/index.html",
-    "precache-manifest.c50fcf298c47ce158283c4ef20a5244d.js": "/monsterkidz/precache-manifest.c50fcf298c47ce158283c4ef20a5244d.js",
+    "precache-manifest.2ad1c73984e45ccd97b5d2f26e108a33.js": "/monsterkidz/precache-manifest.2ad1c73984e45ccd97b5d2f26e108a33.js",
     "service-worker.js": "/monsterkidz/service-worker.js",
     "static/css/main.7dbde842.chunk.css.map": "/monsterkidz/static/css/main.7dbde842.chunk.css.map",
     "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/monsterkidz/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0f1257f0.js",
     "static/js/2.b6f2604e.chunk.js",
     "static/css/main.7dbde842.chunk.css",
-    "static/js/main.6ebf5e72.chunk.js"
+    "static/js/main.feb12000.chunk.js"
   ]
 }
